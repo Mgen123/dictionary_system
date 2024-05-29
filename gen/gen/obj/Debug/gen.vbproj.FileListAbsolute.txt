@@ -1,0 +1,13 @@
+C:\Users\Erick\source\repos\gen\gen\bin\Debug\dictionary.accdb
+C:\Users\Erick\source\repos\gen\gen\bin\Debug\gen.exe.config
+C:\Users\Erick\source\repos\gen\gen\bin\Debug\gen.exe
+C:\Users\Erick\source\repos\gen\gen\bin\Debug\gen.pdb
+C:\Users\Erick\source\repos\gen\gen\bin\Debug\gen.xml
+C:\Users\Erick\source\repos\gen\gen\obj\Debug\gen.vbproj.AssemblyReference.cache
+C:\Users\Erick\source\repos\gen\gen\obj\Debug\gen.Form1.resources
+C:\Users\Erick\source\repos\gen\gen\obj\Debug\gen.Resources.resources
+C:\Users\Erick\source\repos\gen\gen\obj\Debug\gen.vbproj.GenerateResource.cache
+C:\Users\Erick\source\repos\gen\gen\obj\Debug\gen.vbproj.CoreCompileInputs.cache
+C:\Users\Erick\source\repos\gen\gen\obj\Debug\gen.exe
+C:\Users\Erick\source\repos\gen\gen\obj\Debug\gen.xml
+C:\Users\Erick\source\repos\gen\gen\obj\Debug\gen.pdb
